@@ -946,7 +946,7 @@ h2 i[class^="icon-"], h2 i[class*=" icon-"], h2 i.fa {
  	margin: 0 0 .6em 0; font-size: 3em; font-weight: 400; line-height: 120%; font-family: 'Tangerine', serif; color: #D0DADC;
 	}
 .letter-info {
- 	margin-left: 130px;
+ 	/*margin-left: 130px;*/
 	}
 	.letter-info p i {
  		display: inline-block; padding: 7px 9px; font-size: 15px; color: #fff; background: #5BCF80; margin: 0 14px 10px 0; border-radius: 50%;
